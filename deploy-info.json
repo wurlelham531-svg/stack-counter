@@ -1,0 +1,9 @@
+{
+  "contractId": "SP16F6839630K5XX06KE7KVNSNMYBK89912NH6N4C.stack-counter",
+  "deployer": "SP16F6839630K5XX06KE7KVNSNMYBK89912NH6N4C",
+  "txid": "5ad7202e19becf6a04a899ceeaad11c0412295addd088f04b19f5ad13c7332c0",
+  "submittedAt": "2026-05-11T12:46:45.327Z",
+  "fee": "5000",
+  "clarityVersion": 4,
+  "explorer": "https://explorer.hiro.so/txid/5ad7202e19becf6a04a899ceeaad11c0412295addd088f04b19f5ad13c7332c0?chain=mainnet"
+}
