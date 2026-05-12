@@ -9,3 +9,4 @@
 - 2026-05-12 — tighten docs (boga)
 - 2026-05-12 — refresh build metadata (ai37)
 - 2026-05-12 — tighten docs (19iw)
+- 2026-05-12 — housekeeping pass (1idi)
