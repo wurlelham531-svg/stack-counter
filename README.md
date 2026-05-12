@@ -26,3 +26,7 @@ Uses [@stacks/connect](https://github.com/hirosystems/connect) for wallet connec
 ## License
 
 MIT
+
+---
+
+_Last updated: 2026-05-12_
