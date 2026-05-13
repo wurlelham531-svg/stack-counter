@@ -29,3 +29,4 @@
 - 2026-05-13 — misc tweaks (7mpb)
 - 2026-05-13 — tighten docs (u3tn)
 - 2026-05-13 — minor cleanup and polish (gq86)
+- 2026-05-13 — tidy up notes (4mdi)
