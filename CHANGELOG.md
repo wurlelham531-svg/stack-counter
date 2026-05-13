@@ -22,3 +22,4 @@
 - 2026-05-13 — routine maintenance (tzgo)
 - 2026-05-13 — minor cleanup and polish (f6rx)
 - 2026-05-13 — housekeeping pass (1t6b)
+- 2026-05-13 — small doc improvements (tu71)
