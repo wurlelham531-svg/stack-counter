@@ -18,3 +18,5 @@
 - 2026-05-13 — tighten docs (jukk)
 - 2026-05-13 — minor cleanup and polish (7t7q)
 - 2026-05-13 — tighten docs (3l1f)
+- 2026-05-13 — small doc improvements (g59n)
+- 2026-05-13 — routine maintenance (tzgo)
