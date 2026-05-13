@@ -13,3 +13,4 @@
 - 2026-05-12 — small refinements (bp8w)
 - 2026-05-12 — tighten docs (2887)
 - 2026-05-13 — small doc improvements (mmuj)
+- 2026-05-13 — refresh build metadata (gxsy)
