@@ -26,3 +26,4 @@
 - 2026-05-13 — refresh build metadata (l42v)
 - 2026-05-13 — housekeeping pass (e23d)
 - 2026-05-13 — minor cleanup and polish (cgzz)
+- 2026-05-13 — misc tweaks (7mpb)
