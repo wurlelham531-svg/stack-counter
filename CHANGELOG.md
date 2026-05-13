@@ -23,3 +23,4 @@
 - 2026-05-13 — minor cleanup and polish (f6rx)
 - 2026-05-13 — housekeeping pass (1t6b)
 - 2026-05-13 — small doc improvements (tu71)
+- 2026-05-13 — refresh build metadata (l42v)
