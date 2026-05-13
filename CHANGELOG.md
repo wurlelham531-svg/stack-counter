@@ -31,3 +31,4 @@
 - 2026-05-13 — minor cleanup and polish (gq86)
 - 2026-05-13 — tidy up notes (4mdi)
 - 2026-05-13 — small refinements (pnlq)
+- 2026-05-13 — tidy up notes (36ex)
