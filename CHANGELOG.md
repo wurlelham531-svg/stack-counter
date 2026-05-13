@@ -20,3 +20,4 @@
 - 2026-05-13 — tighten docs (3l1f)
 - 2026-05-13 — small doc improvements (g59n)
 - 2026-05-13 — routine maintenance (tzgo)
+- 2026-05-13 — minor cleanup and polish (f6rx)
