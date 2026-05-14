@@ -42,3 +42,4 @@
 - 2026-05-14 — routine maintenance (da0w)
 - 2026-05-14 — small doc improvements (wuzj)
 - 2026-05-14 — misc tweaks (ne27)
+- 2026-05-14 — small wording fixes (sovw)
