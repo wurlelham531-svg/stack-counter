@@ -38,3 +38,4 @@
 - 2026-05-14 — housekeeping pass (0kae)
 - 2026-05-14 — tighten docs (gmn4)
 - 2026-05-14 — small doc improvements (yv0n)
+- 2026-05-14 — minor cleanup and polish (1grv)
