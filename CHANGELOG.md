@@ -34,3 +34,4 @@
 - 2026-05-13 — tidy up notes (36ex)
 - 2026-05-14 — housekeeping pass (pijo)
 - 2026-05-14 — housekeeping pass (ttd2)
+- 2026-05-14 — small doc improvements (ttcu)
