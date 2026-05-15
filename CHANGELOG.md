@@ -44,3 +44,4 @@
 - 2026-05-14 — misc tweaks (ne27)
 - 2026-05-14 — small wording fixes (sovw)
 - 2026-05-14 — tidy up notes (5ly9)
+- 2026-05-15 — tighten docs (5g7h)
