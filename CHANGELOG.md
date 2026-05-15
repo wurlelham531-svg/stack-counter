@@ -49,3 +49,5 @@
 - 2026-05-15 — minor cleanup and polish (bd5g)
 - 2026-05-15 — tidy up notes (aoop)
 - 2026-05-15 — small refinements (q53b)
+- 2026-05-15 — housekeeping pass (lxlg)
+- 2026-05-15 — minor cleanup and polish (fg9u)
