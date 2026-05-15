@@ -47,3 +47,4 @@
 - 2026-05-15 — tighten docs (5g7h)
 - 2026-05-15 — minor cleanup and polish (1a5h)
 - 2026-05-15 — minor cleanup and polish (bd5g)
+- 2026-05-15 — tidy up notes (aoop)
