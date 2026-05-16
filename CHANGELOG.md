@@ -55,3 +55,4 @@
 - 2026-05-16 — minor cleanup and polish (mmc9)
 - 2026-05-16 — minor cleanup and polish (7mle)
 - 2026-05-16 — tidy up notes (9sm7)
+- 2026-05-16 — tighten docs (ew9f)
