@@ -58,3 +58,4 @@ Dev journal — informal.
 - 2026-05-16: thought: maybe a small "how it works" section
 - 2026-05-16: todo: better empty-state copy
 - 2026-05-16: micro-task: align dates in changelog format
+- 2026-05-16: note: keep the frontend layout untouched for now
