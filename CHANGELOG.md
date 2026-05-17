@@ -60,3 +60,4 @@
 - 2026-05-17 — refresh build metadata (lagm)
 - 2026-05-17 — tighten docs (msjl)
 - 2026-05-17 — small wording fixes (set1)
+- 2026-05-17 — tidy up notes (jd6v)
