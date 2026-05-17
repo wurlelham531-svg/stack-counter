@@ -57,3 +57,4 @@
 - 2026-05-16 — tidy up notes (9sm7)
 - 2026-05-16 — tighten docs (ew9f)
 - 2026-05-16 — minor cleanup and polish (54vg)
+- 2026-05-17 — refresh build metadata (lagm)
