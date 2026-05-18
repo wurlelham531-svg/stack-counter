@@ -63,3 +63,5 @@
 - 2026-05-17 — tidy up notes (jd6v)
 - 2026-05-17 — small refinements (zhzs)
 - 2026-05-17 — housekeeping pass (6gpe)
+- 2026-05-18 — small doc improvements (rzcz)
+- 2026-05-18 — small wording fixes (6j3o)
