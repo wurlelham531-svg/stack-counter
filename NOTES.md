@@ -66,3 +66,4 @@ Dev journal — informal.
 - 2026-05-17: idea: tiny visual polish on the home page
 - 2026-05-18: thinking about cleanup of contract entry point
 - 2026-05-18: todo: better empty-state copy
+- 2026-05-18: tbd: feedback widget on landing
