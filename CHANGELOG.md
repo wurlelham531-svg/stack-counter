@@ -67,3 +67,4 @@
 - 2026-05-18 — small wording fixes (6j3o)
 - 2026-05-18 — tidy up notes (azka)
 - 2026-05-20 — refresh build metadata (u8ww)
+- 2026-05-20 — misc tweaks (zvjl)
