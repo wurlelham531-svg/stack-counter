@@ -71,3 +71,4 @@
 - 2026-05-20 — small wording fixes (s12b)
 - 2026-05-20 — tidy up notes (i1x4)
 - 2026-05-21 — small doc improvements (ukzr)
+- 2026-05-21 — small doc improvements (8pts)
