@@ -74,3 +74,5 @@
 - 2026-05-21 — small doc improvements (8pts)
 - 2026-05-21 — tidy up notes (o40e)
 - 2026-05-21 — misc tweaks (yfcx)
+- 2026-05-22 — small refinements (a2cg)
+- 2026-05-22 — small wording fixes (cjke)
