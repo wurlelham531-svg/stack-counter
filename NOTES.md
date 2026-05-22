@@ -86,3 +86,4 @@ Dev journal — informal.
 - 2026-05-21: tbd: feedback widget on landing
 - 2026-05-22: thinking about cleanup of contract entry point
 - 2026-05-22: reminder: keep docs in sync with on-chain calls
+- 2026-05-22: considering a small tweak to UX copy
