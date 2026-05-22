@@ -76,3 +76,4 @@
 - 2026-05-21 — misc tweaks (yfcx)
 - 2026-05-22 — small refinements (a2cg)
 - 2026-05-22 — small wording fixes (cjke)
+- 2026-05-22 — small wording fixes (5mb3)
