@@ -78,3 +78,4 @@
 - 2026-05-22 — small wording fixes (cjke)
 - 2026-05-22 — small wording fixes (5mb3)
 - 2026-05-22 — minor cleanup and polish (wm8i)
+- 2026-05-23 — tighten docs (w5ni)
