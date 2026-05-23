@@ -80,3 +80,4 @@
 - 2026-05-22 — minor cleanup and polish (wm8i)
 - 2026-05-23 — tighten docs (w5ni)
 - 2026-05-23 — small doc improvements (sq7l)
+- 2026-05-23 — tidy up notes (3b88)
