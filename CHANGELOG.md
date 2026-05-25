@@ -82,3 +82,4 @@
 - 2026-05-23 — small doc improvements (sq7l)
 - 2026-05-23 — tidy up notes (3b88)
 - 2026-05-25 — small refinements (ayt6)
+- 2026-05-25 — small doc improvements (78gz)
