@@ -89,3 +89,4 @@ Dev journal — informal.
 - 2026-05-22: considering a small tweak to UX copy
 - 2026-05-22: idea: tiny visual polish on the home page
 - 2026-05-25: thought: maybe a small "how it works" section
+- 2026-05-25: idea: tiny visual polish on the home page
