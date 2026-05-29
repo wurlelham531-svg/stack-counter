@@ -86,3 +86,4 @@
 - 2026-05-25 — tidy up notes (zcga)
 - 2026-05-25 — small wording fixes (9xj2)
 - 2026-05-25 — small doc improvements (2pt1)
+- 2026-05-29 — small doc improvements (tr9k)
